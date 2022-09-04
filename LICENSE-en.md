@@ -1,4 +1,5 @@
 ###### [日本語]・**English**・[中文(香港)]・[中文(中国大陆)]・[中文(台灣)]
+<!-- This one along with the Japanese one is the original version on the IPA.-->
 # IPA Font License Agreement v1.0
 
 The Licensor provides the Licensed Program (as defined in Article 1 below) under the terms of this license agreement (“Agreement”).  Any use, reproduction or distribution of the Licensed Program, or any exercise of rights under this Agreement by a Recipient (as defined in Article 1 below) constitutes the Recipient's acceptance of this Agreement. 
